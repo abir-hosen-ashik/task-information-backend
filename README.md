@@ -1,12 +1,12 @@
-## Getting started
+## Start
 
-This is spring boot project, created for kanban support backend for rest api
+This is spring boot project, created for kanban support backend of rest api
 
-prerequisite for this project
+### Prerequisite
 - [ ] maven
 - [ ] mysql
 
-## Step to follow
+### Mysql Setup
 
 ```
 user: abir
@@ -14,7 +14,13 @@ pass: 3323
 db: ms_db
 port: 3306
 ```
-`configured in application.yml, you may configure according to your setup.`
+
+These avobe are configured in application.yml
+
+you may configure application.yml for mysql according to your environment.
+
+### Run project
+
 ```
 mvn compile
 mvn spring-boot:run
