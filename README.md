@@ -2,11 +2,12 @@
 
 This is spring boot project, created for kanban support backend for rest api
 
-
-## Step to follow
 prerequisite for this project
 - [ ] maven
 - [ ] mysql
+
+## Step to follow
+
 ```
 user: abir
 pass: 3323
