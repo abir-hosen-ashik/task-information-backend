@@ -1,16 +1,12 @@
-# information
-
-
-
 ## Getting started
 
 This is spring boot project, created for kanban support backend for rest api
 
 
 ## Step to follow
-
+prerequisite for this project
 - [ ] maven
-- [ ] mysql, 
+- [ ] mysql
 ```
 user: abir
 pass: 3323
